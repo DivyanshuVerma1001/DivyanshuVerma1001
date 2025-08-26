@@ -20,20 +20,17 @@
 </p>
 
 ---
+### 👨‍💻 **About Me**:  
+- 💻 Proficient in **HTML**, **CSS**, **Tailwind CSS**, **JavaScript**, **React**, **Node.js**, **Express**, **MongoDB**, **Mongoose**, **Redis**, **C**, and **C++**.  
+- 🔥 Have a strong command over **Data Structures and Algorithms** (200-day LeetCode streak achieved 🎉).  
+- 🚀 Actively building projects to strengthen my development skills.  
+- 🎓 3rd-year **B.Tech** student exploring the exciting world of development.  
 
-### 👨‍💻 **About Me**:
-- 🌱 Currently learning **React** and diving deep into the **MERN stack**.  
-- 💻 Proficient in **HTML**, **CSS**, **Tailwind CSS**, **JavaScript**, **React**, **C**, and **C++**.  
-- 🔥 Have a strong command over **Data Structures and Algorithms** (50-day LeetCode streak achieved 🎉).  
-- 🎓 2nd-year **B.Tech** student exploring the exciting world of development.  
-  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DivyanshuVerma1001&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
 </p>
 
 ---
-
-
 ### 🛠️ **Tech Stack**:
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -41,32 +38,51 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/DSA-brightgreen?style=for-the-badge" alt="DSA"/>
 </p>
 
----
 
 ### 📈 **GitHub Stats**:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DivyanshuVerma1001&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=DivyanshuVerma1001&theme=blue-green&hide_border=false" alt="GitHub Streak" />
+</p>
 ---
 
 ### 📚 **Top Projects**:
+- 🖥️Online Food Delivery website(#)
 - 🚀 Clone of Skills Wallah website(#)  
-- 🖥️ BMI Calculator(#)
 
 ---
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with Me  
 
-### ✍️ **Connect with Me**:
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/divyanshu-verma-561046274"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<!--   <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a> -->
+	<a href="mailto:divyanshuj22@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
+	</a>
+	<a href="https://github.com/DivyanshuVerma1001">
+		<img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
+	</a>
+	<a href="https://www.linkedin.com/in/divyanshu-verma-561046274">
+		<img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+	</a>
+	<a href="https://x.com/DivyanshuV46674">
+		<img src="https://img.shields.io/badge/X(Twitter)-%23000000.svg?style=plastic&logo=x&logoColor=white" alt="X"/>
+	</a>
 </p>
+
+
+
 
 ---
 
@@ -75,8 +91,10 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l1J9sboN2XGHjB95C/giphy.gif" alt="thank you gif" width="300"/>
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
