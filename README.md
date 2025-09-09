@@ -12,7 +12,8 @@
 
 
 
-<h3 align="center">A passionate MERN stack developer </h3>
+<h3 align="center">🎓 B.Tech Computer Science student | 💻 Full Stack Developer | 🚀 DSA Enthusiast </h3>
+
 
 <p align="center">
   <img src="./herobg.png" align="center" style="width: 100%" alt="Divyanshu Verma" />
@@ -20,23 +21,29 @@
 </p>
 
 ---
-### 👨‍💻 **About Me**:  
-- 💻 Proficient in **HTML**, **CSS**, **Tailwind CSS**, **JavaScript**, **React**, **Node.js**, **Express**, **MongoDB**, **Mongoose**, **Redis**, **C**, and **C++**.  
-- 🔥 Have a strong command over **Data Structures and Algorithms** (200-day LeetCode streak achieved 🎉).  
-- 🚀 Actively building projects to strengthen my development skills.  
-- 🎓 3rd-year **B.Tech** student exploring the exciting world of development.  
+### 👨‍💻 About Me  
+I'm a results-driven and passionate developer currently pursuing a **B.Tech in Computer Science (3rd Year)**.  
+I love designing and building scalable solutions that merge creativity with problem-solving while continuously strengthening my development and algorithmic skills.  
+
+- 💻 **Full-Stack Developer** | Skilled in **React, Node.js, Express, MongoDB, Next.js, Redis**  
+- 🧠 Strong expertise in **Data Structures & Algorithms** (200-day LeetCode streak 🎯)  
+- 🔐 Experienced in building **REST APIs**, **secure authentication (JWT, OAuth)**, and **performance optimization**  
+
+- 🎯 Actively exploring impactful **SWE internships & roles for 2025**  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DivyanshuVerma1001&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
 </p>
 
 ---
-### 🛠️ **Tech Stack**:
+
+### 🛠️ Tech Stack  
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
