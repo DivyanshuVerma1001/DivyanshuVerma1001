@@ -24,7 +24,6 @@ I enjoy solving complex problems, designing efficient backend systems, and explo
 - 💻 **Full-Stack Developer** | Experienced in React, Node.js, Express.js, MongoDB, Redis and PostgreSQL.
 - 🤖 **GenAI Developer** | Working with LLMs, RAG, LangChain, LangGraph, Pinecone and AI-powered applications.
 - 🧠 **DSA Enthusiast** | Solved 800+ problems across LeetCode and GeeksforGeeks.
-- 💼 **Former Software Intern** at Astroraag AI Solutions Pvt. Ltd.
 - 🚀 Interested in Software Engineering, Backend Development and Generative AI.
 
 <p align="center">
@@ -102,9 +101,7 @@ I enjoy solving complex problems, designing efficient backend systems, and explo
   <a href="https://divyanshu-verma.tech">
     <img src="https://img.shields.io/badge/Portfolio-2563EB.svg?style=plastic&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://leetcode.com/u/divyanshu_verma10/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=plastic&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
+  
 </p>
 
 ---
